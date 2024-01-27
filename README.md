@@ -1,7 +1,7 @@
 ## Olá eu sou o Gabriel Carvalho
 💻Estou trabalhando com front-end.
 
-🌱Estudando Javascript, java, HTML e CSS
+🌱Estudando Javascript, java, HTML, CSS e React
 
 📩Contate-me no email: matheus.gab.miranda@gmail.com
 
